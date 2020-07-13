@@ -2,6 +2,7 @@ Create a static website using flask, datatable, matplotlib and plotly
 
 [SITO](https://visiont3lab.github.io/flask-static-website/)
 
+[![Run on Repl.it](https://repl.it/badge/github/AD1529/flask-static-website)](https://repl.it/github/AD1529/flask-static-website)
 ## Installation
 
 ```
